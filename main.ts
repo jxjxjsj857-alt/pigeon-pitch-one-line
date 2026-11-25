@@ -5,7 +5,9 @@
 // startup jargon (pre-revenue, pre-product, burn rate) and turns it literal
 // at the punchline — 400 million pigeons are the user base, and the burn
 // rate is breadcrumbs. The joke lands because the pigeon is not describing
-// a startup; it is describing being a pigeon.
+// a startup; it is describing being a pigeon. It stays at 152 characters
+// on purpose: short and tight, and an exact tie on win rate goes to the
+// smaller text, so every word has to earn its place.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const PITCH =
